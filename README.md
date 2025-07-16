@@ -29,7 +29,7 @@ A simple and clean **React.js** based shopping cart system where users can brows
 | ---------------------------------------------- | ---------------------------------------------- |
 | ![Home](src/Screenshots/Screenshot%20home.png) | ![Cart](src/Screenshots/Screenshot%20Cart.png) |
 
-    ![cartMenu](src/Screenshots/Screenshot%2001.png) | ![cartItem](src/Screenshots/Screenshot%2002.png)
+|    ![cartMenu](src/Screenshots/Screenshot%2001.png) | ![cartItem](src/Screenshots/Screenshot%2002.png) |
 
 > 📷Actual screenshots are  in `screenshots` folder and update the path above.
 
@@ -72,7 +72,7 @@ src/
 
 ```
 
-###✨ Future Improvements
+### ✨ Future Improvements
 🔐 Add login & authentication
 
 📦 Integrate live product API
@@ -85,7 +85,7 @@ src/
 
 📱 Make fully mobile responsive
 
-###🙋‍♂️ Author
+### 🙋‍♂️ Author
 Rishabh Mishra
 💼 Aspiring Web Developer
 📧 rishabhmishra0026@gmail.com
