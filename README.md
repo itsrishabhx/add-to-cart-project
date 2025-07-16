@@ -29,7 +29,9 @@ A simple and clean **React.js** based shopping cart system where users can brows
 | ---------------------------------------------- | ---------------------------------------------- |
 | ![Home](src/Screenshots/Screenshot%20home.png) | ![Cart](src/Screenshots/Screenshot%20Cart.png) |
 
-> 📷 Add actual screenshots in a `screenshots` folder and update the path above.
+    ![cartMenu](src/Screenshots/Screenshot%2001.png) | ![cartItem](src/Screenshots/Screenshot%2002.png)
+
+> 📷Actual screenshots are  in `screenshots` folder and update the path above.
 
 ---
 
@@ -47,26 +49,43 @@ npm start
 ### 📂 Folder Structure
 
 ```
-my-app/
+src/
 ├── components/
-│   ├── Header.js
 │   ├── Cart.js
+│   ├── Filters.js
+│   ├── Header.js
+│   ├── Home.js
+│   ├── Rating.js
 │   └── SingleProduct.js
 ├── Context/
-│   └── Context.js
+│   ├── Context.js
+│   └── Reducers.js
+├── Screenshots/
+│   ├── Screenshot 01.png
+│   ├── Screenshot 02.png
+│   ├── Screenshot Cart.png
+│   └── Screenshot home.png
 ├── App.js
+├── App.css
 ├── index.js
-└── ...
+└── index.css
+
 ```
 
 ###✨ Future Improvements
-###🔐 Add user authentication
+🔐 Add login & authentication
+
+📦 Integrate live product API
+
+📱 Improve mobile responsiveness
+
+📊 Add cart analytics
 
 🧾 Integrate with real product API
 
 📱 Make fully mobile responsive
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
 Rishabh Mishra
 💼 Aspiring Web Developer
 📧 rishabhmishra0026@gmail.com
